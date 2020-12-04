@@ -28,7 +28,7 @@ import ventanas.Editor;
 import ventanas.Principal;
 
 /**
- *   @author Kalasni
+ *   @author ocm128
  *   @version 1.0
  */
 
@@ -126,7 +126,7 @@ extends JFrame {
         this.getContentPane().add((Component)this.botonModificar, (Object)null);
         this.setResizable(false);
         this.setSize(new Dimension(460, 290));
-        this.setTitle("   PROXYLIST v1.0 by Kalasni");
+        this.setTitle("   PROXYLIST v1.0 by ocm128");
         this.setLocationRelativeTo(null);
         this.addWindowListener(new WindowAdapter(){
 

@@ -30,7 +30,7 @@ import ventanas.Principal;
 
 
 /**
- *   @author Kalasni
+ *   @author ocm128
  *   @version 1.0
  */
 
