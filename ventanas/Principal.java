@@ -9,7 +9,7 @@ import java.io.Reader;
 import java.io.StringReader;
 
 /**
- *   @author ocm128 | tdoc@tutamail.com
+ *   @author ocm128 
  *   @version 1.0
  */
 
